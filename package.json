@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_email_parser_from_s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Gouveia",
+  "license": "MIT",
+  "dependencies": {
+    "mailparser": "^2.4.3"
+  }
+}
