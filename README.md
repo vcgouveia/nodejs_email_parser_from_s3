@@ -1,2 +1,2 @@
 # nodejs_email_parser_from_s3
-Example how to get email from s3, parser this email and upload all attachments to s3.
+AWS Lambda function sample to retrive email from S3, parser this email after an AWS SES notification.
